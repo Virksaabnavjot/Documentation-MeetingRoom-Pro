@@ -1,1 +1,8 @@
 This file contains MySQL Database detials for the Meeting Room Pro (MR Pro) application project.
+
+Database - navsingh_MRPro
+
+MySQL Database User Name -  navsingh_MRProAdmin and password - QWERTY123q 
+(All privileges)
+
+
