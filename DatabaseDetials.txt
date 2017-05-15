@@ -1,0 +1,1 @@
+This file contains MySQL Database detials for the Meeting Room Pro (MR Pro) application project.
